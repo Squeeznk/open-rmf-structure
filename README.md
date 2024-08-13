@@ -4,4 +4,4 @@
 
 Отдельно рассматрены дополнительные пакеты, расширяющие функциональность Open-RMF.
 
-[OpenRMFStructure.drawio.png]
+![Структура Open-RMF](OpenRMFStructure.drawio.png "Структура Open-RMF")
